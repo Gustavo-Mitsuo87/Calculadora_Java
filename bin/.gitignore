@@ -22,21 +22,3 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
-
-# Eclipse
-.metadata/
-*.class
-.project
-.classpath
-.settings/
-
-# Maven (if applicable)
-target/
-
-# Gradle (if applicable)
-.gradle/
-build/
-
-# Operating System files
-.DS_Store # Mac
-Thumbs.db # Windows
